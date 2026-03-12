@@ -1,12 +1,11 @@
+This repository is no longer being updated, but the files will still work if you need to fix a Marlin based Machine.
+
+
+
 # V1 Engineering Preconfigured Marlin
 
 This repository provides a preconfigured version of Marlin that is optimized for The
 V1Engineering.com machines.
-
-![rambo](https://github.com/V1EngineeringInc/MarlinBuilder/workflows/rambo/badge.svg)
-![skr_pro](https://github.com/V1EngineeringInc/MarlinBuilder/workflows/skr_pro/badge.svg)
-![ramps](https://github.com/V1EngineeringInc/MarlinBuilder/workflows/ramps/badge.svg)
-![skr_1p3](https://github.com/V1EngineeringInc/MarlinBuilder/workflows/skr_1p3/badge.svg)
 
 ## Getting started
 
